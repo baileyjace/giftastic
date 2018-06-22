@@ -1,0 +1,28 @@
+body {
+    background-color: peachpuff;
+}
+
+.jumbotron {
+    position: relative;
+    background: transparent;
+}
+
+#buttons-view { 
+    text-align: center;
+    position: relative;
+    padding: 20px;
+    margin: 5px 5px;
+}
+
+
+.search {
+    position: relative;
+    text-align: center;
+}
+
+#gifs-view {
+    margin: 20px 20px 0px 0px;
+    position: relative;
+
+    
+}
